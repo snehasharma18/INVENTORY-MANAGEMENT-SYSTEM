@@ -28,10 +28,6 @@ The Inventory Management System is a Python-based application developed using Tk
 
 I look forward to enhancing the Inventory Management System in the coming days by adding more features and improving its functionality based on feedback and evolving requirements.
 
-## Acknowledgments
-
-I would like to express my gratitude to my friend who helped me successfully complete this project.
-
 ## Technologies Used
 
 - Python
