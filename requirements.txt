@@ -1,0 +1,11 @@
+tkinter
+ttkthemes
+sqlite3
+smtplib
+email
+re
+customtkinter
+pickle
+logging
+os
+warnings
